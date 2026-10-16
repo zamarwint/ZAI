@@ -1,6 +1,6 @@
-# Telegram bot agent for Zamar Wint 🤖🖥️
+# Telegram bot agent for ZW 🤖🖥️
 
-This is Zamar Wint's telegram bot agent. It is an AI assistant that sends messages on his behalf.
+This is ZW's telegram bot agent. It is an AI assistant that sends messages on his behalf.
 
 ## Technologies Used
 
@@ -12,4 +12,4 @@ This is Zamar Wint's telegram bot agent. It is an AI assistant that sends messag
 ## Dependencies required
 
 1. @google/generative-ai dotenv express socket.io
-2. @types/express @types/node nodemon ts-node typescript --save-dev
+2. @types/express @types/node nodemon tsx typescript --save-dev
