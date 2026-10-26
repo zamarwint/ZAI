@@ -6,10 +6,10 @@ This is ZW's telegram bot agent. It is an AI assistant that sends messages on hi
 
 - Node.js
 - Express
-- Socket.io
+- Google Gemini API
 - TypeScript
 
 ## Dependencies required
 
-1. @google/generative-ai dotenv express socket.io
+1. @google/generative-ai dotenv express node-telegram-bot-api
 2. @types/express @types/node nodemon tsx typescript --save-dev
